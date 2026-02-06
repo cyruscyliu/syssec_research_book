@@ -53,18 +53,19 @@ theme:
     - content.code.annotate
 
 # Navigation Structure
+# Titles are automatically taken from markdown H1 headers
 nav:
   - Home: index.md
-  - "Part 1: Why System Security": p1-why-system-security.md
-  - "Part 2: Research Philosophy": p2-Research-Philosophy.md
-  - "Part 3: Literature Review": p3-literature-review.md
-  - "Part 4: Knowledge for Research": p4-knowledge-for-research.md
-  - "Part 5: Research & Software Engineering": p5-Summary-Research-SE.md
-  - "Part 6: Research Presentation": p6-research-presentation.md
-  - "Part 7: Technology Transfer": p7-technology-transfer.md
-  - "Part 8: Don't Waste Time": p8-dont-waste-time.md
-  - "Part 9: Research Groups": p9-research-groups.md
-  - "Part 10: Prosperity of Crisis": p10-properity-of-crisis.md
+  - p1-why-system-security.md
+  - p2-Research-Philosophy.md
+  - p3-literature-review.md
+  - p4-knowledge-for-research.md
+  - p5-Summary-Research-SE.md
+  - p6-research-presentation.md
+  - p7-technology-transfer.md
+  - p8-dont-waste-time.md
+  - p9-research-groups.md
+  - p10-properity-of-crisis.md
 
 # Markdown Extensions
 markdown_extensions:
@@ -104,6 +105,7 @@ markdown_extensions:
 # Plugins
 plugins:
   # i18n plugin for language switching
+  # Navigation titles are automatically extracted from markdown H1 headers
   - i18n:
       docs_structure: folder
       fallback_to_default: true
@@ -119,16 +121,6 @@ plugins:
           build: true
           nav_translations:
             Home: 首页
-            "Part 1: Why System Security": "第一部分：为什么选择系统安全"
-            "Part 2: Research Philosophy": "第二部分：研究哲学"
-            "Part 3: Literature Review": "第三部分：文献综述"
-            "Part 4: Knowledge for Research": "第四部分：研究所需知识"
-            "Part 5: Research & Software Engineering": "第五部分：研究与软件工程"
-            "Part 6: Research Presentation": "第六部分：研究展示"
-            "Part 7: Technology Transfer": "第七部分：技术转化"
-            "Part 8: Don't Waste Time": "第八部分：不要浪费时间"
-            "Part 9: Research Groups": "第九部分：研究团队"
-            "Part 10: Prosperity of Crisis": "第十部分：危机中的繁荣"
 
   - search:
       lang:
