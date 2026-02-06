@@ -1,4 +1,4 @@
-# Doing Research - Part 3: How to Find Related Work
+# How to Find Related Work
 
 ## I don't know any related work
 

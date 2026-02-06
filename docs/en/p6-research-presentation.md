@@ -1,4 +1,4 @@
-# Doing Research - Part 6: Research Presentation and Talks
+# Research Presentation and Talks
 
 
 Making <u>__c__</u>lear, <u>__e__</u>ngaging, and <u>__p__</u>ursuasive oral

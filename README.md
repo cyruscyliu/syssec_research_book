@@ -77,21 +77,6 @@ pandoc docs/index.md docs/p*.md -o journey-to-system-security.pdf \
   -V documentclass=book
 ```
 
-## 📖 Book Structure
-
-The book is organized into 10 parts:
-
-1. **Why System Security** — Understanding the motivation and challenges
-2. **Research Philosophy** — How to approach system security research
-3. **Literature Review** — Navigating the research landscape
-4. **Knowledge for Research** — Essential foundations
-5. **Research & Software Engineering** — Bridging theory and implementation
-6. **Research Presentation** — Communicating your work effectively
-7. **Technology Transfer** — From research to real-world impact
-8. **Don't Waste Time** — Productivity and time management
-9. **Research Groups** — Collaborative research dynamics
-10. **Prosperity of Crisis** — Finding opportunities in challenges
-
 ## 🌐 Deployment
 
 ### GitHub Pages

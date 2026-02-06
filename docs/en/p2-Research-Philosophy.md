@@ -1,4 +1,4 @@
-# Doing Research - Part 2: System Security Research Methodology
+# System Security Research Methodology
 
 ## What is system security?
 

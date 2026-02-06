@@ -1,4 +1,4 @@
-# Doing Research - Part 8: Pitfalls, Adjustments, and Tips in R&D
+# Pitfalls, Adjustments, and Tips in R&D
 
 Waste less time = Gain more time!
 

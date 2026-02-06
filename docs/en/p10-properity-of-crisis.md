@@ -1,4 +1,4 @@
-# Doing Research - Part 10: Prosperity in Crisis: Internal Shortcuts and External Setbacks
+# Prosperity in Crisis: Internal Shortcuts and External Setbacks
 
 
 **Academic prosperity? In reality, it’s bad money driving out good.** The

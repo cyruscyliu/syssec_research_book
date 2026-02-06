@@ -1,4 +1,4 @@
-# Doing Research - Part 4: Building a Research Knowledge Base
+# Building a Research Knowledge Base
 
 I'd like to build the knowledge database which can be accessed by any system
 security scholars, which will save a lot of their time.

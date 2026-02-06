@@ -1,4 +1,4 @@
-# Doing Research - Part 7: Technology Transfer and Practical Deployment
+# Technology Transfer and Practical Deployment
 
 
 Technology transfer is part of our research and will give feedback to our
