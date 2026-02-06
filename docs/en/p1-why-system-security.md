@@ -1,4 +1,4 @@
-# Doing Research - Part 1: A Simple Guide to System Security Survival
+# Doing Research - Part 1: System Security Research Survival Guide
 
 
 System security is the practice of defending computer systems from threats like

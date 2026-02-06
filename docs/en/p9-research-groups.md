@@ -1,4 +1,4 @@
-# Doing Research - Part 9: Research Lab Management
+# Doing Research - Part 9: Research Groups and Lab Management
 
 Three aspects: Resources / Personnel / Projects
 
