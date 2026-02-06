@@ -19,7 +19,7 @@
 7. **[技术转化与落地实践](p7-technology-transfer.md)** — 从研究到实际影响
 8. **[研究与开发中的陷阱、调整与技巧](p8-dont-waste-time.md)** — 生产力和时间管理
 9. **[研究团队与实验室管理](p9-research-groups.md)** — 协作研究动态
-10. **[危机中的繁荣：内部捷径与外部挫折](p10-properity-of-crisis.md)** — 在挑战中寻找机会
+10. **[繁荣中的危机：内部捷径与外部挫折](p10-properity-of-crisis.md)** — 在挑战中寻找机会
 
 ## 本书适合谁
 

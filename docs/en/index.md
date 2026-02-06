@@ -19,7 +19,7 @@ This book is organized into ten parts, each focusing on a critical aspect of sys
 7. **[Technology Transfer and Practical Deployment](p7-technology-transfer.md)** — From research to real-world impact
 8. **[Pitfalls, Adjustments, and Tips in R&D](p8-dont-waste-time.md)** — Productivity and time management
 9. **[Research Groups and Lab Management](p9-research-groups.md)** — Collaborative research dynamics
-10. **[Prosperity in Crisis: Internal Shortcuts and External Setbacks](p10-properity-of-crisis.md)** — Finding opportunities in challenges
+10. **[Crisis in Prosperity: Internal Shortcuts and External Setbacks](p10-properity-of-crisis.md)** — Finding opportunities in challenges
 
 ## Who This Book Is For
 

@@ -1,33 +1,9 @@
-# Prosperity in Crisis: Internal Shortcuts and External Setbacks
+# Crisis in Prosperity: Internal Shortcuts and External Setbacks
 
+**Academic prosperity?** On the surface, cybersecurity research looks thriving: more funding, more students, more papers. But this “prosperity” is driven by multiple forces—rising security budgets, growing student cohorts, top-tier conference orientation, team-based production, and the widespread use of large-model tools. These forces accelerate output, yet they also push peer review and mentorship to the edge. Reviewer pools are larger, but reviewer time is spread thin, submissions keep rising, and people are too busy to review deeply. Effective review cycles keep shrinking. At the same time, supervision is diluted by volume, and many advisors cannot or choose not to provide meaningful guidance.
 
-**Academic prosperity? In reality, it’s bad money driving out good.** The
-growing number of students in cybersecurity research has led to a surge in paper
-production, creating the illusion of progress. But this rapid expansion has
-strained the peer review system—reviewers are being added hastily, review cycles
-are getting shorter, and as a result, the quality of reviews is declining.
-Meanwhile the same time, research supervision is becoming increasingly
-superficial, with many mentors unable or unwilling to provide meaningful
-guidance.
+**Shortcuts undermine fairness.** From ghostwriting and ghost-submission to collusion in peer review, shortcuts erode trust-based review. Initiatives like ACM Protect aim to restore fairness by removing unfair advantages rather than only punishing outright fraud, which gives rule-followers a sense of justice. But the side effects are real: some professors may fail performance evaluations, students may be unable to graduate, faculty with blemished records can become targets of political manipulation, and pre-screening can misfire—such as flagging a valid citation as missing. Reputational damage then compounds the anxiety, especially for already vulnerable communities.
 
-**Shortcuts undermine fairness.** From ghostwriting and ghost-submission to
-collusion in peer review, the use of shortcuts in academic publishing is
-corroding the foundation of merit-based evaluation. Initiatives like ACM Protect
-aim to combat these practices—not to target outright academic fraud, but to
-restore fairness by eliminating unfair advantages. While such crackdowns may
-bring a sense of justice to those who follow the rules, they also produce
-unintended consequences: Chinese professors may fail performance evaluations,
-students may be unable to graduate, and faculty with blemished records can
-become targets of political manipulation. The broader fallout is
-reputational—China’s academic image is further damaged, not just by geopolitics,
-but by its own internal contradictions and that it handed critics the very knife
-used against it.
+**Scientists have a motherland, and science has national borders.** In an increasingly interconnected world, geopolitics shapes how research is perceived, funded, and shared. The ideal of borderless knowledge persists, yet political dynamics influence collaboration, discussion, and talent mobility. When national interests intersect with research, evaluation and dissemination are pulled by non-research forces, and neutrality becomes harder to sustain.
 
-**Scientists have a motherland, and science has national borders.** In an
-increasingly interconnected world, the geopolitical landscape shapes how
-scientific research is perceived and received. While the pursuit of knowledge
-should transcend borders, the reality is that political dynamics often affect
-the collaboration and recognition of scientific work. When national interests
-intersect with research, the integrity of science can be compromised, and the
-impact of one's work can be influenced by factors beyond the quality of the
-research itself.
+**From papers to practice.** In this environment, chasing “more papers” is the wrong target. What we need is deeper translation. Staying with a direction and turning research into usable, reusable, and scalable practice mobilizes more social resources and creates greater social value. Top-tier papers matter, but the true impact comes from systems that can be deployed, maintained, and improved in the real world. The conclusion is simple: stop fixating on publishing; focus on real-world application.
