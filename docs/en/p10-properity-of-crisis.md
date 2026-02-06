@@ -1,6 +1,5 @@
 # Doing Research - Part 10: Crisis of Prosperit: Internal Shortcuts and External Setbacks
 
-<!-- more -->
 
 **Academic prosperity? In reality, it’s bad money driving out good.** The
 growing number of students in cybersecurity research has led to a surge in paper

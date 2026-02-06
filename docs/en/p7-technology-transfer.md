@@ -1,6 +1,5 @@
 # Doing Research - Part 7: Technology Transfer and Practices Under Control
 
-<!-- more -->
 
 Technology transfer is part of our research and will give feedback to our
 research. Theoretical analysis will be omitted here. In practice, (but I still

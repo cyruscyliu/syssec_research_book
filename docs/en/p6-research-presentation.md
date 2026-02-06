@@ -1,6 +1,5 @@
 # Doing Research - Part 6: How to Do Research Presentation
 
-<!-- more -->
 
 Making <u>__c__</u>lear, <u>__e__</u>ngaging, and <u>__p__</u>ursuasive oral
 representations is one of the keys to staying competitive, especially in front

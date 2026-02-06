@@ -7,7 +7,6 @@ provide widely-used services, such as browsers, compilers/interpreters, network
 protocols, operating systems, hypervisors, trust execution environment, and
 processors, based on thread models that define who will be trusted or not.
 
-<!-- more -->
 
 ### Algorithms
 

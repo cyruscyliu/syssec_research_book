@@ -1,6 +1,5 @@
 # Doing Research - Part 1: A Simple Guide to System Security Survival
 
-<!-- more -->
 
 System security is the practice of defending computer systems from threats like
 vulnerabilities and attacks through safeguard technologies. It sounds noble—and

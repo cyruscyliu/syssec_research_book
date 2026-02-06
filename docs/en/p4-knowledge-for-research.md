@@ -3,7 +3,6 @@
 I'd like to build the knowledge database which can be accessed by any system
 security scholars, which will save a lot of their time.
 
-<!-- more -->
 
 However, this knowledge database cannot offer creativity.
 

@@ -2,7 +2,6 @@
 
 Solid implementation in limited time makes us competitive in research.
 
-<!-- more -->
 
 - Artifact evaluation is introduced to overcome the "reproducibility issue".
 - The security community is third times than five years ago.

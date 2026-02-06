@@ -4,7 +4,6 @@
 
 That's impossible.
 
-<!-- more -->
 
 ## I know one related work and would like to find more
 

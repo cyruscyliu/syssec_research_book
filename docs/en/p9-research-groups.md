@@ -2,7 +2,6 @@
 
 Three aspects: Resources / Personnel / Projects
 
-<!-- more -->
 
 ## Resources
 

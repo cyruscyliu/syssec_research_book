@@ -2,7 +2,6 @@
 
 Waste less time = Gain more time!
 
-<!-- more -->
 
 ## Avoid re-doing the same things twice
 
