@@ -1,3 +1,194 @@
-site_name: System Security Research Book
+site_name: A Journey to System Security
+site_description: A comprehensive guide to system security research and practice
+site_author: Qiang Liu
+site_url: https://cyruscyliu.github.io/syssec-research-book
+
+# Repository
+repo_name: syssec-research-book
+repo_url: https://github.com/cyruscyliu/syssec-research-book
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2024-2026 Qiang Liu
+
+# Theme Configuration
 theme:
   name: material
+  language: zh
+
+  # Color scheme
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+
+  # Font configuration - supports Chinese
+  font:
+    text: Noto Sans SC
+    code: Noto Sans Mono
+
+  # Features
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - "Part 1: Why System Security": p1-why-system-security.md
+  - "Part 2: Research Philosophy": p2-Research-Philosophy.md
+  - "Part 3: Literature Review": p3-literature-review.md
+  - "Part 4: Knowledge for Research": p4-knowledge-for-research.md
+  - "Part 5: Research & Software Engineering": p5-Summary-Research-SE.md
+  - "Part 6: Research Presentation": p6-research-presentation.md
+  - "Part 7: Technology Transfer": p7-technology-transfer.md
+  - "Part 8: Don't Waste Time": p8-dont-waste-time.md
+  - "Part 9: Research Groups": p9-research-groups.md
+  - "Part 10: Prosperity of Crisis": p10-properity-of-crisis.md
+
+# Markdown Extensions
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Plugins
+plugins:
+  # i18n plugin for language switching
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+            Home: 首页
+            "Part 1: Why System Security": "第一部分：为什么选择系统安全"
+            "Part 2: Research Philosophy": "第二部分：研究哲学"
+            "Part 3: Literature Review": "第三部分：文献综述"
+            "Part 4: Knowledge for Research": "第四部分：研究所需知识"
+            "Part 5: Research & Software Engineering": "第五部分：研究与软件工程"
+            "Part 6: Research Presentation": "第六部分：研究展示"
+            "Part 7: Technology Transfer": "第七部分：技术转化"
+            "Part 8: Don't Waste Time": "第八部分：不要浪费时间"
+            "Part 9: Research Groups": "第九部分：研究团队"
+            "Part 10: Prosperity of Crisis": "第十部分：危机中的繁荣"
+
+  - search:
+      lang:
+        - en
+        - zh
+      separator: '[\s\-\.]+'
+
+  # PDF Export Plugin
+  - with-pdf:
+      author: Qiang Liu
+      copyright: Copyright &copy; 2024-2026
+      cover_title: A Journey to System Security
+      cover_subtitle: Research, Philosophy, and Practice
+      cover_logo: null
+
+      # Output settings
+      output_path: pdf/journey-to-system-security.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
+
+      # PDF styling with Chinese font support
+      two_columns_level: 0
+      render_js: false
+
+      # Custom CSS for Chinese fonts
+      custom_template_path: null
+
+      # Table of contents
+      toc_title: 目录
+      toc_level: 2
+      ordered_chapter_level: 1
+
+      # Heading shift
+      heading_shift: false
+
+      # Exclude from PDF
+      excludes_children:
+        - 'release-notes/:upgrading'
+        - 'release-notes/:changelog'
+
+      # Debug settings
+      debug_html: false
+      verbose: false
+
+# Extra Configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cyruscyliu
+
+  # Analytics (optional)
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+
+# Extra CSS for Chinese font support
+extra_css:
+  - stylesheets/extra.css
+
+# Extra JavaScript for MathJax support
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

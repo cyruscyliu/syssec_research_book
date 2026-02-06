@@ -1,0 +1,40 @@
+/* Chinese font support for web and PDF */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Serif+SC:wght@400;700&display=swap');
+
+/* Body text with Chinese support */
+body {
+    font-family: "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Headers with better Chinese rendering */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 600;
+}
+
+/* Code blocks */
+code, pre {
+    font-family: "Noto Sans Mono", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
+}
+
+/* Better line height for mixed Chinese and English */
+p {
+    line-height: 1.8;
+}
+
+/* PDF specific styling */
+@media print {
+    body {
+        font-family: "Noto Serif SC", serif;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Noto Sans SC", sans-serif;
+        page-break-after: avoid;
+    }
+
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}
